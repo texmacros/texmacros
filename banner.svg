@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320">
+  <rect width="800" height="320" rx="32" fill="#2B1B3D"/>
+  <text x="400" y="100" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="48" font-weight="700" fill="#EADDFF">Абдулазиз</text>
+  <text x="400" y="145" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="20" fill="#CCC2DC">Родился 13.10.2005 · Ташкент</text>
+  <text x="400" y="185" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="20" fill="#CCC2DC">Учусь делать сайты и приложения</text>
+  <text x="400" y="215" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="20" fill="#CCC2DC">Люблю технику, логистику и свои проекты</text>
+  <rect x="252" y="245" width="80" height="36" rx="18" fill="#4A3A63"/>
+  <rect x="344" y="245" width="72" height="36" rx="18" fill="#4A3A63"/>
+  <rect x="428" y="245" width="120" height="36" rx="18" fill="#4A3A63"/>
+  <g font-family="Roboto, Arial, sans-serif" font-size="16" fill="#EADDFF" text-anchor="middle">
+    <text x="292" y="269">HTML</text>
+    <text x="380" y="269">CSS</text>
+    <text x="488" y="269">JavaScript</text>
+  </g>
+</svg>
